@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.dad {
+    width: 800px;
+    height: 700px;
+    background: rgb(180, 113, 182);
+    margin: auto;
+    align-items: end;
+ 
+}
+
+
+.baby {
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    
+}
+
+
+.mom {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+.sister {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.baby2{
+    display: flex;
+    justify-content: center;
+}
